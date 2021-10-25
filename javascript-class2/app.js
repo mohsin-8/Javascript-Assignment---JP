@@ -91,7 +91,6 @@ var script = "Yah! I can write HTML content through Javascript" + "<br>";
 
 document.write(script);
 
-
 var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 
 alert(design);
